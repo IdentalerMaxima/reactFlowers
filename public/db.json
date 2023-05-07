@@ -1,0 +1,100 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "title": "Sakura tree",
+      "pic": "/sakura.jpg",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "Some cactus",
+      "pic": "/cactus.jpg",
+      "active": true
+    },
+    {
+      "id": 3,
+      "title": "Some flower",
+      "pic": "/flower.jpg",
+      "active": true
+    },
+    {
+      "id": 4,
+      "title": "Narcissus",
+      "pic": "/narcissus.jpg",
+      "active": true
+    },
+    {
+      "id": 5,
+      "title": "1. virág",
+      "pic": "/151553.jpg",
+      "active": false
+    },
+    {
+      "id": 6,
+      "title": "2. virág",
+      "pic": "/151624.jpg",
+      "active": true
+    },
+    {
+      "id": 7,
+      "title": "3. virág",
+      "pic": "/152217.jpg",
+      "active": false
+    },
+    {
+      "id": 8,
+      "title": "4. virág",
+      "pic": "/152302.jpg",
+      "active": true
+    },
+    {
+      "id": 9,
+      "title": "5. virág",
+      "pic": "/152427.jpg",
+      "active": true
+    },
+    {
+      "id": 10,
+      "title": "6. virág",
+      "pic": "/152439.jpg",
+      "active": false
+    },
+    {
+      "id": 11,
+      "title": "7. virág",
+      "pic": "/152642.jpg",
+      "active": false
+    },
+    {
+      "id": 12,
+      "title": "8. virág",
+      "pic": "/152700.jpg",
+      "active": true
+    },
+    {
+      "id": 13,
+      "title": "9. virág",
+      "pic": "/152741.jpg",
+      "active": true
+    },
+    {
+      "id": 14,
+      "title": "10. virág",
+      "pic": "/152850.jpg",
+      "active": true
+    },
+    {
+      "id": 15,
+      "title": "11. virág",
+      "pic": "/153005.jpg",
+      "active": true
+    },
+    {
+      "id": 16,
+      "title": "12. virág",
+      "pic": "/153436.jpg",
+      "active": true
+    }
+  ]
+}
